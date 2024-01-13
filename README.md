@@ -2,6 +2,6 @@
 
 ## Demo
 
-|                                                   MP4                                                    |
+|                                                   GIF                                                    |
 | :------------------------------------------------------------------------------------------------------: |
-| ![demo](https://github.com/Yaya12085/rn-animated-quantity-input/blob/main/screenshots/demo.mp4?raw=true) |
+| ![demo](https://github.com/Yaya12085/rn-animated-quantity-input/blob/main/screenshots/demo.gif?raw=true) |
